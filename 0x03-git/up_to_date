@@ -1,1 +1,1 @@
-mkdir up_to_date
+git pull https://github.com/yon24-0/alx-zero_day.git
